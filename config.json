@@ -3,6 +3,10 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "MERNGPT-Chatbot",
+    "Filmy-Reviews",
+    "college-compass-backend",
+    "Schedule-Amazon-Delivery-Trucks",
+    "NewsApp"
   ]
 }
