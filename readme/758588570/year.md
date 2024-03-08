@@ -1,6 +1,6 @@
 ## [🔙 repo-views-counter](https://github.com/ChinmayR07/repo-views-counter)
 
-### :octocat: [NewsApp](https://github.com/ChinmayR07/NewsApp)
+### :octocat: [TechieTimes-NewsApp](https://github.com/ChinmayR07/TechieTimes-NewsApp)
 ![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/758588570/large/year.png)
 
 <details>
@@ -23,10 +23,10 @@
 			<code>2024/3/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>8</code>
 		</td>
 		<td>
-			<code>77</code>
+			<code>87</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/3/8 6:21 AM UTC</i></small>
+<small><i>Last updated on 2024/3/8 12:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
@@ -173,9 +173,9 @@
 [![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/svg/758588570/badge.svg)](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/758588570/week.md)
 ```
 ### Header
-# NewsApp [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/758588570/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/758588570/year.md)
+# TechieTimes-NewsApp [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/758588570/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/758588570/year.md)
 ```readme
-# NewsApp [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/758588570/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/758588570/year.md)
+# TechieTimes-NewsApp [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/758588570/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/758588570/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
