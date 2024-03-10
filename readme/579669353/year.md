@@ -1,7 +1,7 @@
 ## [🔙 repo-views-counter](https://github.com/ChinmayR07/repo-views-counter)
 
-### :octocat: [Schedule-Amazon-Delivery-Trucks](https://github.com/ChinmayR07/Schedule-Amazon-Delivery-Trucks)
-![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/722764521/large/year.png)
+### :octocat: [leetcode](https://github.com/ChinmayR07/leetcode)
+![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/579669353/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/3/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>4</code>
+			<code>74</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>12</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/svg/722764521/badge.svg)](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/722764521/week.md)
+[![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/svg/579669353/badge.svg)](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/579669353/week.md)
 ```readme
-[![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/svg/722764521/badge.svg)](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/722764521/week.md)
+[![Image of repo-views-counter](https://github.com/ChinmayR07/repo-views-counter/blob/master/svg/579669353/badge.svg)](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/579669353/week.md)
 ```
 ### Header
-# Schedule-Amazon-Delivery-Trucks [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/722764521/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/722764521/year.md)
+# leetcode [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/579669353/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/579669353/year.md)
 ```readme
-# Schedule-Amazon-Delivery-Trucks [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/722764521/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/722764521/year.md)
+# leetcode [<img alt="Image of repo-views-counter" src="https://github.com/ChinmayR07/repo-views-counter/blob/master/graph/579669353/small/year.png" height="20">](https://github.com/ChinmayR07/repo-views-counter/blob/master/readme/579669353/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
